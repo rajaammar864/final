@@ -1,0 +1,29 @@
+.footer {
+    background-color: white;
+}
+.navbar-shadow {
+    box-shadow: 0 4px 8px rgba(48, 42, 42, 0.2);
+}
+.navbar-nav .nav-link {
+    color: rgb(0, 0, 0) !important;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+    margin-left: 15px; 
+}
+.navbar-nav .nav-link:last-child {
+    margin-right: 0;
+}
+.navbar-nav .nav-link:hover {
+    transform: scale(1.1);
+    color: rgb(0, 0, 0) !important;
+}
+.navbar-brand {
+    color: black;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: bold; }
+.form {
+        max-width: 400px;
+        margin-top: 100px;
+        margin-left: 600px;
+    }
